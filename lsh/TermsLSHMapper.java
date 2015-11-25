@@ -5,7 +5,7 @@ import java.util.Arrays;
 class TermsLSHMapper {
 	public static final int VECTOR_SIZE = 219178 + 1;
 	
-	public static final int BAND_SIZE = 2;
+	public static final int BAND_SIZE = 10;
 	
 	public static final int BUCKET_SIZE = 10;
 	
