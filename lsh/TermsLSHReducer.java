@@ -18,6 +18,9 @@ class TermsLSHReducer {
 					catID = temp[0];
 					if (catID != currentCatID){
 						currentCatID = catID;
+						//output item with same category in one file
+						//e.g. cat_id.txt 
+						//101.txt (if cat_id = 101)
 						filename = currentCatID + ".txt";
 						if (writer != null)
 							writer.close();
