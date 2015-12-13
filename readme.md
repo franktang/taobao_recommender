@@ -6,6 +6,9 @@
 * ``\termsSimilarity``: for calculating terms similarity after lsh
 * ``\result``: final result + result intergration source code
 
+###Java-LSH lib
+In order to execute the mapper reducer in ``\lsh``, a java lib may be needed, which you can find in this [release page of java-LSH](https://github.com/tdebatty/java-LSH/releases).
+
 ###Dataset
 Since dataset is too big size, therefore, the dataset is put in [oneDrive](http://1drv.ms/1lXLOGF)
 
