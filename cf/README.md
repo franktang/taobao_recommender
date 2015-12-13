@@ -1,0 +1,7 @@
+- file with prefix 'preprocess' is about preprocessing dataset
+- file with prefix 'sim' is program calculating similarities
+- file with prefix 'evaluate' is evaluation of algorithms
+- file with prefix 'compare' is comparation of algorithms
+- file with prefix 'filter' is result filters
+- mapper/reducer is another version of filtering
+- other files are results
